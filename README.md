@@ -1,5 +1,5 @@
 # manim-import-test
-Running MacOS Sonoma ARM, installation of manim detailed [here](https://github.com/3b1b/manim/issues/2050#issuecomment-1858666104); I am using `pipenv` with `pyenv`, python version 3.8.18.
+Running MacOS Sonoma ARM, installation of manim detailed [here](https://github.com/3b1b/manim/issues/2050#issuecomment-1858666104); I am using `pipenv` with `pyenv` (needed for `numpy==1.24`), with python version 3.8.18.
 For some reason, all my import statements fail. Project directory is located on my computer (myComputer) at /Users/myUser/manim-import-test.
 
 # setup
